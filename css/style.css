@@ -2,3 +2,8 @@
     height: 200px;
     border: dashed 2px black;
 }
+
+.box-inner {
+    height: 150px;
+    border: dashed 2px red;
+}
